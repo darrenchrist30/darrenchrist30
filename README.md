@@ -1,4 +1,4 @@
-# 💡 Darren Christopher | Information Systems Student @ PCU  
+# 💡 Darren Christopher | Petra Christian University  
 
 🎓 Information Systems Student '22  
 💻 Interested in Full Stack Developer  
